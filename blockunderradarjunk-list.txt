@@ -1,25 +1,17 @@
-!!!! Title: BlockUnderRadarJunk
-!!!! Creator: UnluckyLuke
-!!!! Website: https://github.com/UnluckyLuke
-!!!!
-!!!! Description: This list contain domains, website elements and
-!!!! similar things that I believe is junk and should be blocked.
-!!!! Read about what kind of things we consider "junk" on our website.
+! Title: BlockUnderRadarJunk
+! Description: Filter list for uBlock, AdBlock and similar extensions.
+! Homepage: https://github.com/UnluckyLuke/
+! Creator: UnluckyLuke
+! License: https://creativecommons.org/licenses/by/4.0/legalcode
 !!!!_________________________________________________________________________
-!!!! License
-!!!!
-!!!! Creative Commons Attribution 4.0 International Public License
-!!!! License URL: https://creativecommons.org/licenses/by/4.0/legalcode
-!!!!
-!!!! Super short explanation: https://creativecommons.org/licenses/by/4.0/
-!!!!
 !!!! Please, link to https://github.com/UnluckyLuke
 !!!! if you use this list in any kind of project or if you just want to! ;)
 !!!!_________________________________________________________________________
-!!!!
 !!!! BlockUnderRadarJunk List
 !!!! Small but growing list of ads, domains, URLs, junk.
 !!!!_________________________________________________________________________
+!
+! Spam, Ads... Junk!
 5.45.79.15
 b3stm0b1l3.com
 snap-affairs.com
@@ -28,5 +20,17 @@ mynewrotationlink.com
 hurvewa.com
 tubecorporate.com
 imzog.com
+koradu.com
+7ggtpciw.com
 bulkhentai.com
 hitcpm.com
+popads.net
+juicyads.com
+.exosrv.com
+chance-for-dates.com
+vidoza.net/js/ads.js
+vidoza.net/js/pop.js
+vidoza.net/js/static.bundle.js
+!
+! Swedish filters
+familjeliv.se##.pageBlockContainer
