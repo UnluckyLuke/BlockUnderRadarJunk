@@ -39,6 +39,7 @@ https://github.com/UnluckyLuke/BlockUnderRadarJunk/blob/master/LICENSE
 
 Please, give me some credit if you use my work and link to:
 https://github.com/UnluckyLuke/
+
 If you would like to donate to this project, you can do it by Ƀitcoin: 1DCorXCNhYVajwYDaN449AGVZ1wvfSxED
 
 Thanks! ;)
