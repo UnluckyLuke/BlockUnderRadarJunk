@@ -20,7 +20,6 @@ Just remember that some filters might cause problems with some websites that you
 
 #### URL to the filter list in txt format
 Add this filter URL to uBlock, AdBlock or other compatible blockers:
-
 https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockunderradarjunk-list.txt
 
 
@@ -40,8 +39,8 @@ https://github.com/UnluckyLuke/BlockUnderRadarJunk/blob/master/LICENSE
 
 Please, give me some credit if you use my work and link to:
 https://github.com/UnluckyLuke/
-
 If you would like to donate to this project, you can do it by Ƀitcoin: 1DCorXCNhYVajwYDaN449AGVZ1wvfSxED
+
 Thanks! ;)
 
 Regards,
