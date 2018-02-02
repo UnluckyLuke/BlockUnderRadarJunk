@@ -3,14 +3,11 @@
 ! Homepage: https://github.com/UnluckyLuke/
 ! Creator: UnluckyLuke
 ! License: https://creativecommons.org/licenses/by/4.0/legalcode
-!!!!_________________________________________________________________________
-!!!! Please, link to https://github.com/UnluckyLuke
-!!!! if you use this list in any kind of project or if you just want to! ;)
-!!!!_________________________________________________________________________
-!!!! BlockUnderRadarJunk List
-!!!! Small but growing list of ads, domains, URLs, junk.
-!!!!_________________________________________________________________________
-!
+!!!
+!!! Please, link to https://github.com/UnluckyLuke/
+!!! if you use this list in any project or if you just want to! ;)
+!!!_____________________________________________________________________
+
 ! Spam, Ads... Junk!
 5.45.79.15
 b3stm0b1l3.com
@@ -26,11 +23,15 @@ bulkhentai.com
 hitcpm.com
 popads.net
 juicyads.com
-.exosrv.com
+newton1.club
 chance-for-dates.com
+.exosrv.com
 vidoza.net/js/ads.js
 vidoza.net/js/pop.js
 vidoza.net/js/static.bundle.js
-!
+
+! Cookie Warnings - Annoying
+###cookies-use-alert
+
 ! Swedish filters
 familjeliv.se##.pageBlockContainer
