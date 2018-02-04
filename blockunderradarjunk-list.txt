@@ -1,12 +1,14 @@
+[Adblock Plus 2.0]
 ! Title: BlockUnderRadarJunk
+! Expires: 5 days (update frequency)
 ! Description: Filter list for uBlock, AdBlock and similar extensions.
 ! Homepage: https://github.com/UnluckyLuke/
 ! Creator: UnluckyLuke
 ! License: https://creativecommons.org/licenses/by/4.0/legalcode
 !!!
 !!! Please, link to https://github.com/UnluckyLuke/
-!!! if you use this list in any project or if you just want to! ;)
-!!!_____________________________________________________________________
+!!! if you use this list in any project or if you just want to be nice! ;)
+!!!________________________________________________________________________
 
 ! Spam, Ads... Junk!
 5.45.79.15
