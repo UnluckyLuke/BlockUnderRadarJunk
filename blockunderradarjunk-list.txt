@@ -42,6 +42,8 @@ vidoza.net/js/static.bundle.js
 
 ! Cookie Warnings - Annoying
 ###cookies-use-alert
+###confirm_cookie_use
+###cookieChoiceInfo
 
 ! Swedish filters
 familjeliv.se##.pageBlockContainer
