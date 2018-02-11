@@ -38,12 +38,20 @@ tb.ask.com
 .exosrv.com
 vidoza.net/js/ads.js
 vidoza.net/js/pop.js
-vidoza.net/js/static.bundle.js
+instameetmatch2.com
+beauty10.stream
+podcastbucksheevl.tk
+widgets.sprinklecontent.com
+mmstat.com
 
 ! Cookie Warnings - Annoying
-###cookies-use-alert
+###cookie-bar
+###accept-cookies-div
+###newsletter-floating
 ###confirm_cookie_use
 ###cookieChoiceInfo
+###keep-us-running
+###cookie-law-info-bar
 
 ! Swedish filters
 familjeliv.se##.pageBlockContainer
