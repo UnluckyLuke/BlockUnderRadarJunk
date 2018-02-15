@@ -43,6 +43,13 @@ beauty10.stream
 podcastbucksheevl.tk
 widgets.sprinklecontent.com
 mmstat.com
+gall-tarquin.com
+bravo-dog.com
+databrainz.com
+ping.wac.kz
+defpush.com
+whatsyourflower.com
+polmontventures.com
 
 ! Cookie Warnings - Annoying
 ###cookie-bar
@@ -55,3 +62,22 @@ mmstat.com
 
 ! Swedish filters
 familjeliv.se##.pageBlockContainer
+
+! Spam Domain Recirects
+instameetmatch2.com
+beauty10.stream
+podcastbucksheevl.tk
+
+! Just junk & Such
+reviewwing.com
+
+! Ad Networks
+bidr.trellian.com
+trellian.com
+azadify.com/engage/external/bounce.js
+azadify.com/engage/external/bounce_win_2.js
+strossle.com
+
+! This is only junk, right?
+widgets.sprinklecontent.com
+dropahint.us
