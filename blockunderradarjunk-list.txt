@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: BlockUnderRadarJunk
-! Expires: 5 days (update frequency)
+! Expires: 3 days (update frequency)
 ! Description: Filter list for uBlock, AdBlock and similar extensions.
 ! Homepage: https://github.com/UnluckyLuke/
 ! Creator: UnluckyLuke
@@ -12,55 +12,54 @@
 
 ! Spam, Ads... Junk!
 5.45.79.15
-b3stm0b1l3.com
-snap-affairs.com
-brucelead.com
-mynewrotationlink.com
-hurvewa.com
-tubecorporate.com
-imzog.com
-koradu.com
 7ggtpciw.com
-bulkhentai.com
-hitcpm.com
-popads.net
-juicyads.com
-newton1.club
-iwanttodeliver.com
-chance-for-dates.com
-quaves.info
-convertro.com
-servedby-buysellads.com
-prostomers.com
-televisionfanatic.com
-myway.com
-tb.ask.com
+7proof.com
 .exosrv.com
+arclk.net
+b3stm0b1l3.com
+beauty10.stream
+bravo-dog.com
+brucelead.com
+bulkhentai.com
+ch0c.com
+chance-for-dates.com
+convertro.com
+crypto-genisus.com
+databrainz.com
+defpush.com
+gall-tarquin.com
+gtosite.com
+hitcpm.com
+hurvewa.com
+imzog.com
+inclk.com
+instameetmatch2.com
+iwanttodeliver.com
+iyfnzgb.com
+juicyads.com
+koradu.com
+mmstat.com
+myappzcollection.com
+mynewrotationlink.com
+myonlinepayday.co
+myway.com
+newton1.club
+ping.wac.kz
+podcastbucksheevl.tk
+polmontventures.com
+popads.net
+prostomers.com
+quaves.info
+servedby-buysellads.com
+snap-affairs.com
+tb.ask.com
+televisionfanatic.com
+totalvirus.com
+tubecorporate.com
 vidoza.net/js/ads.js
 vidoza.net/js/pop.js
-instameetmatch2.com
-beauty10.stream
-podcastbucksheevl.tk
-widgets.sprinklecontent.com
-mmstat.com
-gall-tarquin.com
-bravo-dog.com
-databrainz.com
-ping.wac.kz
-defpush.com
 whatsyourflower.com
-polmontventures.com
-crypto-genisus.com
-myonlinepayday.co
-inclk.com
-totalvirus.com
-gtosite.com
-7proof.com
-myappzcollection.com
-instameetmatch2.com
-beauty10.stream
-podcastbucksheevl.tk
-ch0c.com
+widgets.sprinklecontent.com
 
 ! Cookie Warnings - Annoying
 ###cookie-bar
