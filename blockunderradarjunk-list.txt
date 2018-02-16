@@ -57,6 +57,10 @@ totalvirus.com
 gtosite.com
 7proof.com
 myappzcollection.com
+instameetmatch2.com
+beauty10.stream
+podcastbucksheevl.tk
+ch0c.com
 
 ! Cookie Warnings - Annoying
 ###cookie-bar
@@ -67,17 +71,6 @@ myappzcollection.com
 ###keep-us-running
 ###cookie-law-info-bar
 
-! Swedish filters
-familjeliv.se##.pageBlockContainer
-
-! Spam Domain Recirects
-instameetmatch2.com
-beauty10.stream
-podcastbucksheevl.tk
-
-! Just junk & Such
-reviewwing.com
-
 ! Ad Networks
 bidr.trellian.com
 trellian.com
@@ -85,6 +78,14 @@ azadify.com/engage/external/bounce.js
 azadify.com/engage/external/bounce_win_2.js
 strossle.com
 
+! Swedish filters
+familjeliv.se##.pageBlockContainer
+
 ! This is only junk, right?
 widgets.sprinklecontent.com
 dropahint.us
+reviewwing.com
+
+! CryptoMiners & Related
+party-nwvqdtumtz.now.sh
+cloudcoins.co
