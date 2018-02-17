@@ -10,7 +10,7 @@
 !!! if you use this list in any project or if you just want to be nice! ;)
 !!!________________________________________________________________________
 
-! Spam, Ads... Junk!
+! Spam, Ads, Popups, Malware... Junk!
 5.45.79.15
 7ggtpciw.com
 7proof.com
@@ -60,6 +60,17 @@ vidoza.net/js/ads.js
 vidoza.net/js/pop.js
 whatsyourflower.com
 widgets.sprinklecontent.com
+pps03.xyz
+hcg82f2b.com
+perfectgirls.net
+bromson.com
+rasius.pro
+0gctp5ht.top
+vokut.com
+
+
+
+
 
 ! Cookie Warnings - Annoying
 ###cookie-bar
@@ -76,6 +87,9 @@ trellian.com
 azadify.com/engage/external/bounce.js
 azadify.com/engage/external/bounce_win_2.js
 strossle.com
+adservice.google
+retargetcore.com
+popmyads.com
 
 ! Annoying Layer-popups
 a.optnmstr.com
