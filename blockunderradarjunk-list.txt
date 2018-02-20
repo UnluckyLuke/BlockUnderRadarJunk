@@ -83,8 +83,6 @@ googleadservices.com/pagead/conversion.js
 /analytics/images/favicon.ico
 
 
-
-
 ! Cookie Warnings - Annoying
 ###cookie-bar
 ###accept-cookies-div
@@ -93,6 +91,9 @@ googleadservices.com/pagead/conversion.js
 ###cookieChoiceInfo
 ###keep-us-running
 ###cookie-law-info-bar
+###cookieMessage
+##.cookie-message
+
 
 ! Ad Networks
 bidr.trellian.com
