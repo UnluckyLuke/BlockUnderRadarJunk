@@ -83,6 +83,8 @@ googleadservices.com/pagead/conversion.js
 /analytics/images/favicon.ico
 listen77.com/adserver/
 weelakeo.wordpress.com
+&network=popunder
+.ru/image?source=popunder
 praymedia.net
 infra.systems
 ichlnk.com
@@ -93,6 +95,26 @@ tracking88.stream
 wnzvrqryvirelv.com
 traktrafficflow.com
 learnmedia.top
+umekana.ru
+lvodomi.info
+octomarket.com
+.ok.ru
+js.torrentz.gq
+madnet.ru
+waveview.info
+uuidksinc.net
+adriver.ru
+rbnt.org
+trafex.net
+luxup.ru
+ictowaz.ru
+ntvk1.ru
+izrelo.ru
+rnuhavi.ru
+ukryta.eu
+takyake.ru
+ninjagod.com
+easygirls.info
 
 
 ! Cookie Warnings & Newsletter boxes - Annoying
