@@ -10,7 +10,7 @@
 !! if you use this list in any project or if you just want to be nice! ;)
 !!________________________________________________________________________
 
-! Spam, Ads, Popups, Malware... Junk!
+! Spam, Ads, Popups, Malware, Redirects... Junk!
 5.45.79.15
 7ggtpciw.com
 7proof.com
@@ -83,6 +83,10 @@ googleadservices.com/pagead/conversion.js
 /analytics/images/favicon.ico
 listen77.com/adserver/
 weelakeo.wordpress.com
+praymedia.net
+infra.systems
+ichlnk.com
+allbookmedia.com
 
 
 ! Cookie Warnings & Newsletter boxes - Annoying
