@@ -81,6 +81,8 @@ advertica.ae
 popcash.net
 googleadservices.com/pagead/conversion.js
 /analytics/images/favicon.ico
+listen77.com/adserver/
+weelakeo.wordpress.com
 
 
 ! Cookie Warnings & Newsletter boxes - Annoying
