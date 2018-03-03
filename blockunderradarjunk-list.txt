@@ -129,6 +129,13 @@ easygirls.info
 ###cookieMessage
 ##.cookie-message
 
+! Google
+ssl.google-analytics.com
+google-analytics.com
+google.com/analytics/
+googleadservices.com
+www.google-analytics.com
+adservice.google
 
 ! Ad Networks
 bidr.trellian.com
@@ -136,10 +143,40 @@ trellian.com
 azadify.com/engage/external/bounce.js
 azadify.com/engage/external/bounce_win_2.js
 strossle.com
-adservice.google
 retargetcore.com
 popmyads.com
-
+adroll.com
+ads.undertone.com
+amazon-adsystem.com
+analytics.yahoo.com
+bidswitch.com
+bidswitch.net
+c.amazon-adsystem.com
+d.adroll.com
+doubleclick.net
+fyber.com
+gumgum.com
+js-agent.newrelic.com
+marketo.net
+monitor.report-uri.com
+munchkin-cdn.marketo.net
+munchkin.marketo.net
+newrelic.com
+portal-xiva.yandex.net
+push.yandex.ru
+report-uri.com
+report-uri.io
+rtb.gumgum.com
+rtbcc.fyber.com
+sp.analytics.yahoo.com
+stats.g.doubleclick.net
+tag.clrstm.com
+terminus.services
+vidassets.terminus.services
+x.bidswitch.net
+adxprtz.com
+traffic.adxprtz.com
+sloyalty.com
 
 ! Annoying Layer-popups
 a.optnmstr.com
