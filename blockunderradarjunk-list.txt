@@ -190,12 +190,39 @@ familjeliv.se##.pageBlockContainer
 widgets.sprinklecontent.com
 dropahint.us
 reviewwing.com
+visualwebsiteoptimizer.com
+vwo.com
+hsleadflows.net
+hsforms.net
+hsstatic.net
+hs-scripts.com
+hs-analytics.net
+hsappstatic.net
+hubspotqa.com
+gettally.com
+usemessages.com
+swiftype.com
 
 
 ! Privacy? With 3rd party trackers on their sites...
 protect-your-privacy.net
 anonymous-net.com
 2468.go2cloud.org
+
+
+! 18+ redirects, spam, junk...
+easy-sexxx.com
+wankzvr.com
+natsfornetworks.com
+freeadult.games
+services.pornhub.com
+pornhub.com/svvt/add
+livepromotools.com
+bangready.com/kao/kao.php
+cdn.freeadult.games
+kaotic.com/ViewAffiliate
+www.kaotic.com/inCount
+ci.phncdn.com/www-static/js/ph-tracking.js
 
 
 ! CryptoMiners & Related
