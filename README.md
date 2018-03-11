@@ -14,10 +14,6 @@ filter lists didn't block something that clearly, or atleast I think, should be 
 So, that's what you'll find in this list... Bad stuff the big block lists missed, junk that went under the radar. ;)
 
 
-I mostly surf on English and Swedish websites but even if you never surf on Swedish sites this list will still be useful for you! If your adblocker or any kind of blocker that you're using can handle more than one filter, use that feature!
-Just remember that some filters might cause problems with some websites that you visit because they block something the website needs to work properly.
-
-
 #### URL to the filter list in txt format
 Add this filter URL to uBlock, AdBlock or other compatible blockers:
 https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockunderradarjunk-list.txt
