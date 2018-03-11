@@ -223,8 +223,13 @@ cdn.freeadult.games
 kaotic.com/ViewAffiliate
 www.kaotic.com/inCount
 ci.phncdn.com/www-static/js/ph-tracking.js
-
+traffichaus.com
+trafficshop.com
+/ilove/bananas.php
+c4tracking01.com
+adworldmedia.com
 
 ! CryptoMiners & Related
 party-nwvqdtumtz.now.sh
 cloudcoins.co
+
