@@ -221,13 +221,23 @@ livepromotools.com
 bangready.com/kao/kao.php
 cdn.freeadult.games
 kaotic.com/ViewAffiliate
-www.kaotic.com/inCount
-ci.phncdn.com/www-static/js/ph-tracking.js
+kaotic.com/inCount
+phncdn.com/www-static/js/ph-tracking.js
 traffichaus.com
 trafficshop.com
 /ilove/bananas.php
 c4tracking01.com
 adworldmedia.com
+dedating.online
+qregation.info
+/exo_loader.js
+hpltfwbm.com
+furtherne.com
+static.hotjar.com
+creative.stripchat.com
+cnt.xhamster.com
+xhamster.com/ajax/cams-widget/
+
 
 ! CryptoMiners & Related
 party-nwvqdtumtz.now.sh
