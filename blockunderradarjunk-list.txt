@@ -6,6 +6,8 @@
 ! Creator: UnluckyLuke
 ! License: https://creativecommons.org/licenses/by/4.0/legalcode
 !
+! IMPORTANT: This list might contain something a website need to function. Keep that in mind when you surf around the web.
+!
 !! Please, link to https://github.com/UnluckyLuke/
 !! if you use this list in any project or if you just want to be nice! ;)
 !!________________________________________________________________________
@@ -14,7 +16,6 @@
 5.45.79.15
 7ggtpciw.com
 7proof.com
-.exosrv.com
 arclk.net
 b3stm0b1l3.com
 beauty10.stream
@@ -116,6 +117,35 @@ takyake.ru
 ninjagod.com
 easygirls.info
 
+! Added 22 Mars 2018 - Not 100% sure oabout every line in the list. If you find
+! something that don't belong here, please tell me and I'll look it up!
+push4site.com
+d-ughwashes.ru
+etcodes.com
+trafmag.com
+globalteaser.ru
+ledsitling.pro
+marketgid.com
+rtbsystem.com
+google.com/appserve/security-bugs/log/
+youtube.com/youtubei/v1/log_event?
+keqqtop.com
+prsliders.com
+prwidgets.com
+prpops.com
+twiant.com
+/friendconnect/script/friendconnect.js
+irtya.com
+ninnja.de
+e-libdigital.com
+valemedia.net
+aclick.adhoc1.net
+ff.media-bucket.com
+filesfetcher.com
+genericlink.com
+puhtml.com
+nr-data.net
+
 
 ! Cookie Warnings & Newsletter boxes - Annoying
 ###cookie-bar
@@ -142,6 +172,7 @@ bidr.trellian.com
 trellian.com
 azadify.com/engage/external/bounce.js
 azadify.com/engage/external/bounce_win_2.js
+exosrv.com
 strossle.com
 retargetcore.com
 popmyads.com
@@ -243,3 +274,4 @@ xhamster.com/ajax/cams-widget/
 party-nwvqdtumtz.now.sh
 cloudcoins.co
 
+! End of BlockUnderRadarJunk Filter-file.
