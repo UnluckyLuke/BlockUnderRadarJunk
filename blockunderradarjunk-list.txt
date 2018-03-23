@@ -274,4 +274,19 @@ xhamster.com/ajax/cams-widget/
 party-nwvqdtumtz.now.sh
 cloudcoins.co
 
-! End of BlockUnderRadarJunk Filter-file.
+
+! Malicious code, popups, redirects (23/03/18)
+yourtransitinfonow.com
+6198399e4910e66-ovc.com
+my.rtmark.net
+incomingtracker.com
+trackoutgoing.site
+thewhizmarketing.com
+yourfreeonlineforms.com
+go2cloud.org
+hyourfreeonlineformspop.com
+pub2srv.com
+
+
+
+! _____End of BlockUnderRadarJunk Filter-file._____
