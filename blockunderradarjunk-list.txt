@@ -264,7 +264,6 @@ qregation.info
 /exo_loader.js
 hpltfwbm.com
 furtherne.com
-static.hotjar.com
 creative.stripchat.com
 cnt.xhamster.com
 xhamster.com/ajax/cams-widget/
@@ -286,7 +285,33 @@ yourfreeonlineforms.com
 go2cloud.org
 hyourfreeonlineformspop.com
 pub2srv.com
-
+mixpanel.com
+hotjar.com
+dep-x.com
+pingdom.net
+alexametrics.com
+google.com/pagead/
+google.se/ads/
+google.com/ads/
+mixpanel.com
+hotjar.com
+dep-x.com
+pingdom.net
+facebook.com/tr/
+browser-statistik.de
+myvisitorcounter.com
+host-tracker.com
+getsitecontrol.com
+matomo.org
+/piwik.js
+/piwik.php
+browser-statistik.de
+myvisitorcounter.com
+host-tracker.com
+getsitecontrol.com
+matomo.org
+/piwik.js
+/piwik.php
 
 
 ! _____End of BlockUnderRadarJunk Filter-file._____
