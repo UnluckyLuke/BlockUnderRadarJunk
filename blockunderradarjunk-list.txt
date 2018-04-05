@@ -313,5 +313,19 @@ matomo.org
 /piwik.js
 /piwik.php
 
+! Tracking on blogg(dot)se (Added 6 April 2018)
+tourn.se
+trn.ninja
+tourn.co
+shopelloapi.com
+skimresources.com
+redirectingat.com
+pgpartner.co.uk
+outbrain.com
+taboola.com
+static.blogg.se/public/js/metrics.js
+newstats.blogg.se/logger.js
+newstats.blogg.se/collector.js
+
 
 ! _____End of BlockUnderRadarJunk Filter-file._____
