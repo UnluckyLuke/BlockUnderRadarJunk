@@ -215,7 +215,7 @@ a.optnmstr.com
 
 ! Swedish filters
 familjeliv.se##.pageBlockContainer
-
+svd.se##.ContentLayout-metaColumn
 
 ! This is only junk, right?
 widgets.sprinklecontent.com
@@ -265,8 +265,10 @@ qregation.info
 hpltfwbm.com
 furtherne.com
 creative.stripchat.com
+nonktube.com/pop/script.js
 cnt.xhamster.com
-xhamster.com/ajax/cams-widget/
+xhamster.com/ajax/cams-widgets
+xhamster.com##.rendered.horizontal.cams-widget
 
 
 ! CryptoMiners & Related
@@ -327,5 +329,24 @@ static.blogg.se/public/js/metrics.js
 newstats.blogg.se/logger.js
 newstats.blogg.se/collector.js
 
+! 29 April 2018 - The usual crap. As always, not 100% sure of this addition either.
+awentw.com
+content.ad
+api.content-ad.net
+content-ad.net
+d32oduq093hvot.cloudfront.net/site/
+adnuntius.com
+/popup/
+/popup.js
+popunder.js
+https://collector.brandmetrics.com
+mediad2.jp
+javhub.net
+bonedmilfs.com
+modulepush.com
+bnserving.com
+assets.pinterest.com/js/pinit.js
+www.aliexpress.com##.ui-window-bd
+www.aliexpress.com##.ui-mask
 
 ! _____End of BlockUnderRadarJunk Filter-file._____
