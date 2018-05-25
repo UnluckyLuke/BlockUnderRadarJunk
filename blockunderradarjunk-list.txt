@@ -349,4 +349,32 @@ assets.pinterest.com/js/pinit.js
 www.aliexpress.com##.ui-window-bd
 www.aliexpress.com##.ui-mask
 
+! 25 May 2018 - As always, not 100% sure about everything in this list. Sites seem to work fine without them tho.
+! More Fap, Less Crap :P
+imagefap.com/adserver.php?
+imagefap.com/images/yes.gif?
+imagefap.com/images/no.gif?
+imagefap.com/019ce.php
+imagefap.com/jscripts/adsmanager.js
+imagefap.com/jscripts/019ce.js
+
+! Cookie Alert & GDPR
+https://static.tradera.net/touchweb/static/output/script/chunks/chunk.cookie-alert-chunk.
+gdpr.bonniernews.se
+
+! Cosmetic blocking for SydSvenskan.se
+www.sydsvenskan.se##.footer
+www.sydsvenskan.se##.gdpr
+www.sydsvenskan.se##.article-social.article-text > .share-links
+www.sydsvenskan.se##.teaser-offer
+
+! Tracking
+assets.bonad.io/dfp/bau-console.js
+tracking.bonad.io
+millistream.com
+
+account.bonnier.news
+worldoftulo.com
+web-live.tradera.com/socket.io/
+
 ! _____End of BlockUnderRadarJunk Filter-file._____
