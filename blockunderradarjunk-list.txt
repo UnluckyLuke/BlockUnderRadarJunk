@@ -377,4 +377,26 @@ account.bonnier.news
 worldoftulo.com
 web-live.tradera.com/socket.io/
 
+! 18/06/2018
+! These ones, do we need them? Dont think so.
+! I added the full LiveJasmin.com website. No one I know is using it.
+109.71.162.160
+cradver.livejasmin.com
+livejasmin.com
+cdn.trafficstars.com
+cdn.trafficstars.com/sdk/v1/bi.js
+rover.ebay.com
+www.ehzcbife.com
+d31qbv1cthcecs.cloudfront.net/atrk.js
+dates-one.com
+thputr.pro
+thecryptosoftware.biz
+imagefap.com/jscripts/ad_loader.js
+trafforsrv.com
+trafficstars.com
+imagefap.com/adserver.php
+thputr.pro
+thecryptosoftware.biz
+highwebmedia.com
+
 ! _____End of BlockUnderRadarJunk Filter-file._____
