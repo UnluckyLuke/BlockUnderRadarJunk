@@ -1,8 +1,7 @@
 ## BlockUnderRadarJunk - A Filter for uBlock & compitable ad blockers
 
 ##### BlockUnderRadarJunk is a ad filter list (in .txt format) for blocking junk! Ads, Popups and similar Junk the more popular uBLock ad filter lists missed!
-
-It's a "Experimental" filter list so use at your own risk. If there's a rule that's causing problems I'll try to update or remove it as soon as possible.
+##### It's a "Experimental" filter list so use at your own risk. If there's a rule that's causing problems I'll try to update or remove it as soon as possible.
 ---------------
 
 #### What's this list blocking? Why would I use it?
