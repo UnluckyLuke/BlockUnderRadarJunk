@@ -384,7 +384,6 @@ web-live.tradera.com/socket.io/
 cradver.livejasmin.com
 livejasmin.com
 cdn.trafficstars.com
-cdn.trafficstars.com/sdk/v1/bi.js
 rover.ebay.com
 www.ehzcbife.com
 d31qbv1cthcecs.cloudfront.net/atrk.js
@@ -398,5 +397,29 @@ imagefap.com/adserver.php
 thputr.pro
 thecryptosoftware.biz
 highwebmedia.com
+
+! 30 Jun 2018
+123clk.com
+ad.dmm.com
+ad.liveburst.com
+adnium.com
+api.eu.collectconsent.com
+blatungo.com
+bps.hs.llnwd.net
+casinoheroes.com/*/?btag
+flirt4free.com
+flirt.live
+grannflirten.com
+hemligaflirtar.com
+hemligtmogenflirt.com
+insigit.com
+istripper.com
+only2date.com
+premium33.ru
+snabbflirt.com
+statsy.net
+taboolasyndication.com
+thxczhfzad.com
+trahui.ru
 
 ! _____End of BlockUnderRadarJunk Filter-file._____
