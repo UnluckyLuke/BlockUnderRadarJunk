@@ -422,4 +422,19 @@ taboolasyndication.com
 thxczhfzad.com
 trahui.ru
 
+! 22/07/18
+! Pretty broad blocking rules, but I dont think we'll ever see anything useful on domains like this.
+*date*.site/*
+*date*.click/*
+*dating*.site/*
+*dating*.click/*
+
+burt.io
+delivery.youplay.se
+youplay.se
+aaucwbe.com
+reallifecam.com
+rlc.live
+adrunnr.com
+
 ! _____End of BlockUnderRadarJunk Filter-file._____
