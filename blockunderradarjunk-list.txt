@@ -6,8 +6,8 @@
 ! Creator: UnluckyLuke
 ! License: https://creativecommons.org/licenses/by/4.0/legalcode
 !
-! IMPORTANT: This list might contain something a website need to function. Keep that in mind when you surf around the web.
-!
+! IMPORTANT: This list might contain something a website need to function. 
+! Keep that in mind when you surf around the web.
 !! Please, link to https://github.com/UnluckyLuke/
 !! if you use this list in any project or if you just want to be nice! ;)
 !!________________________________________________________________________
@@ -117,7 +117,7 @@ takyake.ru
 ninjagod.com
 easygirls.info
 
-! Added 22 Mars 2018 - Not 100% sure oabout every line in the list. If you find
+! Added 22 Mars 2018 - Not 100% sure about every line in the list. If you find
 ! something that don't belong here, please tell me and I'll look it up!
 push4site.com
 d-ughwashes.ru
@@ -437,7 +437,7 @@ reallifecam.com
 rlc.live
 adrunnr.com
 
-! Ads are pure Evil domains :P- 30 Juli
+! Ads and pure evil domains :P - 30 July
 Adspyglass.com
 HilltopAds.com
 PopAds.net
@@ -472,5 +472,16 @@ trafficforce.com
 inorbitad.com
 gotrack1.es
 plufdsb.com
+
+! 10/08/18
+frtya.com
+/webmasters/banners/b/
+datetronix.com
+sextronix.*.cdnaccess.com
+hoptopboy.com
+atavas.ru
+mmnt.net
+! Some people have scripts that bypass the auth-process. Sorry.
+authedmine.com
 
 ! _____End of BlockUnderRadarJunk Filter-file._____
