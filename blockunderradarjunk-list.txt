@@ -336,10 +336,8 @@ api.content-ad.net
 content-ad.net
 d32oduq093hvot.cloudfront.net/site/
 adnuntius.com
-/popup/
-/popup.js
 popunder.js
-https://collector.brandmetrics.com
+collector.brandmetrics.com
 mediad2.jp
 javhub.net
 bonedmilfs.com
@@ -359,7 +357,7 @@ imagefap.com/jscripts/adsmanager.js
 imagefap.com/jscripts/019ce.js
 
 ! Cookie Alert & GDPR
-https://static.tradera.net/touchweb/static/output/script/chunks/chunk.cookie-alert-chunk.
+static.tradera.net/touchweb/static/output/script/chunks/chunk.cookie-alert-chunk.
 gdpr.bonniernews.se
 
 ! Cosmetic blocking for SydSvenskan.se
@@ -481,6 +479,7 @@ sextronix.*.cdnaccess.com
 hoptopboy.com
 atavas.ru
 mmnt.net
+
 ! Some people have scripts that bypass the auth-process. Sorry.
 authedmine.com
 
@@ -500,5 +499,29 @@ arthyadtracker.info
 snapleaks.net
 arthygeo.info
 newflirtpartner1.com
+
+! 05/09/18
+marketo.com
+marketo.net
+openx.com
+openx.net
+shooshtime.com/abfiles/tools.js
+crptentry.com
+smartclick.net
+adsturn.com
+1rx.io
+adhigh.net
+ipredictive.com
+casalemedia.com
+erne.co
+dotomi.com
+justpremium.com
+pub.network/
+omnitagjs.com
+d31qbv1cthcecs.cloudfront.net
+ato.mx
+hd100546b.com
+nyacampwk.com
+aff-online.com
 
 ! _____End of BlockUnderRadarJunk Filter-file._____
