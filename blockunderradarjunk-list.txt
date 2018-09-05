@@ -6,11 +6,13 @@
 ! Creator: UnluckyLuke
 ! License: https://creativecommons.org/licenses/by/4.0/legalcode
 !
-! IMPORTANT: This list might contain something a website need to function. 
+! IMPORTANT:
+! This list might contain something a website need to function. 
 ! Keep that in mind when you surf around the web.
-!! Please, link to https://github.com/UnluckyLuke/
-!! if you use this list in any project or if you just want to be nice! ;)
-!!________________________________________________________________________
+! Link to https://github.com/UnluckyLuke/
+! if you use this list in any project or if you just want to be nice
+! for a change! ;)
+!________________________________________________________________________
 
 ! Spam, Ads, Popups, Malware, Redirects... Junk!
 5.45.79.15
@@ -523,5 +525,24 @@ ato.mx
 hd100546b.com
 nyacampwk.com
 aff-online.com
+
+c-date.se
+inspxtrc.com
+wooga2.info
+interdatesa.com
+nlkdom.com
+stripchat.com
+oxoclick.com
+bnrdom.com
+plpromos.com
+uaadi.com
+212.83.183.149
+doko.moe
+oclaserver.com
+cobalten.com
+adserving.unibet.com
+sex-and-flirt.com
+villenvinkit.com
+qwfh39851jtfvkurf21hf.com
 
 ! _____End of BlockUnderRadarJunk Filter-file._____
