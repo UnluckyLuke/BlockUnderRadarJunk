@@ -7,7 +7,7 @@
 ! License: https://creativecommons.org/licenses/by/4.0/legalcode
 !
 ! IMPORTANT:
-! This list might contain something a website need to function. 
+! This list might contain something a website need to function.
 ! Keep that in mind when you surf around the web.
 ! Link to https://github.com/UnluckyLuke/
 ! if you use this list in any project or if you just want to be nice
@@ -49,7 +49,6 @@ myway.com
 newton1.club
 ping.wac.kz
 podcastbucksheevl.tk
-polmontventures.com
 popads.net
 prostomers.com
 quaves.info
@@ -62,7 +61,6 @@ tubecorporate.com
 vidoza.net/js/ads.js
 vidoza.net/js/pop.js
 whatsyourflower.com
-widgets.sprinklecontent.com
 pps03.xyz
 hcg82f2b.com
 perfectgirls.net
@@ -148,7 +146,6 @@ genericlink.com
 puhtml.com
 nr-data.net
 
-
 ! Cookie Warnings & Newsletter boxes - Annoying
 ###cookie-bar
 ###accept-cookies-div
@@ -190,7 +187,6 @@ doubleclick.net
 fyber.com
 gumgum.com
 js-agent.newrelic.com
-marketo.net
 monitor.report-uri.com
 munchkin-cdn.marketo.net
 munchkin.marketo.net
@@ -214,7 +210,6 @@ sloyalty.com
 ! Annoying Layer-popups
 a.optnmstr.com
 
-
 ! Swedish filters
 familjeliv.se##.pageBlockContainer
 svd.se##.ContentLayout-metaColumn
@@ -236,13 +231,10 @@ gettally.com
 usemessages.com
 swiftype.com
 
-
 ! Privacy? With 3rd party trackers on their sites...
 protect-your-privacy.net
 anonymous-net.com
 2468.go2cloud.org
-
-
 ! 18+ redirects, spam, junk...
 easy-sexxx.com
 wankzvr.com
@@ -271,12 +263,9 @@ nonktube.com/pop/script.js
 cnt.xhamster.com
 xhamster.com/ajax/cams-widgets
 xhamster.com##.rendered.horizontal.cams-widget
-
-
 ! CryptoMiners & Related
 party-nwvqdtumtz.now.sh
 cloudcoins.co
-
 
 ! Malicious code, popups, redirects (23/03/18)
 yourtransitinfonow.com
@@ -289,10 +278,6 @@ yourfreeonlineforms.com
 go2cloud.org
 hyourfreeonlineformspop.com
 pub2srv.com
-mixpanel.com
-hotjar.com
-dep-x.com
-pingdom.net
 alexametrics.com
 google.com/pagead/
 google.se/ads/
@@ -309,14 +294,6 @@ getsitecontrol.com
 matomo.org
 /piwik.js
 /piwik.php
-browser-statistik.de
-myvisitorcounter.com
-host-tracker.com
-getsitecontrol.com
-matomo.org
-/piwik.js
-/piwik.php
-
 ! Tracking on blogg(dot)se (Added 6 April 2018)
 tourn.se
 trn.ninja
@@ -330,7 +307,6 @@ taboola.com
 static.blogg.se/public/js/metrics.js
 newstats.blogg.se/logger.js
 newstats.blogg.se/collector.js
-
 ! 29 April 2018 - The usual crap. As always, not 100% sure of this addition either.
 awentw.com
 content.ad
@@ -349,7 +325,13 @@ assets.pinterest.com/js/pinit.js
 www.aliexpress.com##.ui-window-bd
 www.aliexpress.com##.ui-mask
 
-! 25 May 2018 - As always, not 100% sure about everything in this list. Sites seem to work fine without them tho.
+! Cosmetic blocking for SydSvenskan.se
+www.sydsvenskan.se##.footer
+www.sydsvenskan.se##.gdpr
+www.sydsvenskan.se##.article-social.article-text > .share-links
+www.sydsvenskan.se##.teaser-offer
+
+! 25 May 2018 - As always, not 100% sure about everything in this list
 ! More Fap, Less Crap :P
 imagefap.com/adserver.php?
 imagefap.com/images/yes.gif?
@@ -357,29 +339,21 @@ imagefap.com/images/no.gif?
 imagefap.com/019ce.php
 imagefap.com/jscripts/adsmanager.js
 imagefap.com/jscripts/019ce.js
-
 ! Cookie Alert & GDPR
 static.tradera.net/touchweb/static/output/script/chunks/chunk.cookie-alert-chunk.
 gdpr.bonniernews.se
-
-! Cosmetic blocking for SydSvenskan.se
-www.sydsvenskan.se##.footer
-www.sydsvenskan.se##.gdpr
-www.sydsvenskan.se##.article-social.article-text > .share-links
-www.sydsvenskan.se##.teaser-offer
 
 ! Tracking
 assets.bonad.io/dfp/bau-console.js
 tracking.bonad.io
 millistream.com
-
 account.bonnier.news
 worldoftulo.com
 web-live.tradera.com/socket.io/
 
 ! 18/06/2018
 ! These ones, do we need them? Dont think so.
-! I added the full LiveJasmin.com website. No one I know is using it.
+! I added the full LiveJasmin.com website.
 109.71.162.160
 cradver.livejasmin.com
 livejasmin.com
@@ -388,8 +362,6 @@ rover.ebay.com
 www.ehzcbife.com
 d31qbv1cthcecs.cloudfront.net/atrk.js
 dates-one.com
-thputr.pro
-thecryptosoftware.biz
 imagefap.com/jscripts/ad_loader.js
 trafforsrv.com
 trafficstars.com
@@ -423,12 +395,11 @@ thxczhfzad.com
 trahui.ru
 
 ! 22/07/18
-! Pretty broad blocking rules, but I dont think we'll ever see anything useful on domains like this.
+! Pretty broad blocking rules, but I dont think we'll ever see anything useful on domains like the ".click" ones in along while.
 *date*.site/*
 *date*.click/*
 *dating*.site/*
 *dating*.click/*
-
 burt.io
 delivery.youplay.se
 youplay.se
@@ -436,8 +407,6 @@ aaucwbe.com
 reallifecam.com
 rlc.live
 adrunnr.com
-
-! Ads and pure evil domains :P - 30 July
 Adspyglass.com
 HilltopAds.com
 PopAds.net
@@ -472,7 +441,6 @@ trafficforce.com
 inorbitad.com
 gotrack1.es
 plufdsb.com
-
 ! 10/08/18
 frtya.com
 /webmasters/banners/b/
@@ -481,7 +449,6 @@ sextronix.*.cdnaccess.com
 hoptopboy.com
 atavas.ru
 mmnt.net
-
 ! Some people have scripts that bypass the auth-process. Sorry.
 authedmine.com
 
@@ -525,7 +492,6 @@ ato.mx
 hd100546b.com
 nyacampwk.com
 aff-online.com
-
 c-date.se
 inspxtrc.com
 wooga2.info
@@ -544,5 +510,65 @@ adserving.unibet.com
 sex-and-flirt.com
 villenvinkit.com
 qwfh39851jtfvkurf21hf.com
+
+! 04/10/18
+adbetnet.com
+bannersvideo.com
+mn1nm.com
+adglare
+12mgr.com
+picstraffic.com
+51.la
+8800267.com.cn
+bdimg.com
+borsendental.com
+qj.borsendental.com
+cnzz.com
+edo5.com
+guanglijiudian.com
+hechaocheng.cn
+hivps.xyz
+myzcoffice.com
+qiqivv.com
+qq.com
+pingtcss.qq.com
+aodongjiaosu.com
+qianliexiancha.com
+jyhwt.cn
+xlsschina15.net
+emysw.com
+zhiyaspa.com
+dnaxddnc.com
+xuqinqi.cn
+yinhangjr.net
+258pcf.com
+258ydh.com
+5321pf.com
+8g0ymk.cn
+cezici.cn
+gotourls.bid
+kuangtuiguoo18888.com
+polmontventures.com
+aniview.com
+lkqd.net
+ie8eamus.com
+adservice.google.com
+nopickytime.com
+vertamedia.com
+vogo-vogo.ru
+zirijasa.ru
+runews-portal.ne
+filegenerator.blob.core.windows.net/pllo52422/
+ticket.whipcountry.pw
+superonclick.com
+linksynergy.com/json2.js
+onclicksuper.com
+poponclick.com
+pgssl.com
+adspayment.com
+maxcpm.com
+trafficzor.com
+arubads.com
+lowendbox.com/media/banner/
 
 ! _____End of BlockUnderRadarJunk Filter-file._____
