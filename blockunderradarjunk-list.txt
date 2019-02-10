@@ -858,4 +858,12 @@ newsjet.ir
 gozarkade.ir
 zarpop.com
 
+! 10/02/19
+rsalcuk.com
+onclickclear.com
+eliittikumppani.fi
+bellatraffic.com
+channeldate.com
+iqoption.com
+
 ! _____End of BlockUnderRadarJunk Filter-file._____
