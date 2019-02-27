@@ -117,8 +117,7 @@ takyake.ru
 ninjagod.com
 easygirls.info
 
-! Added 22 Mars 2018 - Not 100% sure about every line in the list. If you find
-! something that don't belong here, please tell me and I'll look it up!
+! 22/03/18
 push4site.com
 d-ughwashes.ru
 etcodes.com
@@ -263,6 +262,7 @@ nonktube.com/pop/script.js
 cnt.xhamster.com
 xhamster.com/ajax/cams-widgets
 xhamster.com##.rendered.horizontal.cams-widget
+
 ! CryptoMiners & Related
 party-nwvqdtumtz.now.sh
 cloudcoins.co
@@ -307,6 +307,7 @@ taboola.com
 static.blogg.se/public/js/metrics.js
 newstats.blogg.se/logger.js
 newstats.blogg.se/collector.js
+
 ! 29 April 2018 - The usual crap. As always, not 100% sure of this addition either.
 awentw.com
 content.ad
@@ -873,5 +874,17 @@ ecpms.net
 sub.gb.net
 girrrly.today
 searchdimension.com
+
+! 27/02/19
+ad.plus
+aboveresults.com
+bidswitch.net
+adtelligent.com
+addroplet.com
+nfkd2ug8d9.com
+traffic-media.co.uk
+agentfuck.com
+trackingzen.com
+nyetm2mkch.com
 
 ! _____End of BlockUnderRadarJunk Filter-file._____
