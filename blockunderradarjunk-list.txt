@@ -942,4 +942,20 @@ jugd.info
 testdomeens.info
 mediafresh.online
 
+! 15/06/19
+alxsite.com
+nightcallgirl.info
+jugd.info
+testdomeens.info
+mediafresh.online
+wclnk.com
+wctrk.com
+watchmygirlfriend.tv
+api.ipinfodb.com
+ipinfo.io
+dauid-iep.com
+forumloadfast.pro
+titan.infra.systems
+forumloadfast.pro
+
 ! _____End of BlockUnderRadarJunk Filter-file._____
