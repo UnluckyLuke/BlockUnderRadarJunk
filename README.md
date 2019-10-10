@@ -14,9 +14,12 @@ filter lists didn't block something that clearly, or atleast I think, should be 
 So, that's what you'll find in this list... Bad stuff the big block lists missed, junk that went under the radar. ;)
 
 
-#### URL to the filter list in txt format
+#### URL to the Filter List in TXT Format
 Add this filter URL to uBlock Origin or other compatible blockers:
+
 https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockunderradarjunk-list.txt
+
+[Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockunderradarjunk-list.txt&amp;title=BlockUnderRadarJunk)
 
 
 #### Where can I find a blocker for my web browser?
