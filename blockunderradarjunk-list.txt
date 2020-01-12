@@ -1014,4 +1014,13 @@ tango-deg.com
 fapimage.com
 odysseus-nua.com
 
+! 12/01/20
+farmakos.gr
+kortio.se
+bonad.io
+matchads.net
+rampanel.com
+lystra.se
+linkpulse.com
+
 ! _____End of BlockUnderRadarJunk Filter-file._____
