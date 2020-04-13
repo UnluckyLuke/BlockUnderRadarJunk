@@ -1023,4 +1023,32 @@ rampanel.com
 lystra.se
 linkpulse.com
 
+! 14/04/20 - Lots of trackers from LastP*ss. Not 100% sure about many of these blocks. Tell me if Lastp*ss malfunctions.
+adfarm.mediaplex.com
+lastpass.com/images/ads/
+lastpass.com/ads.php?
+stats.g.doubleclick.net/
+www.google.com/analytics/web/inpage/pub/inpage.js
+www.google-analytics.com/plugins/ua/
+www.google-analytics.com/gtm/js?
+cdn.lmiutil.com
+sp.analytics.yahoo.com
+trc.taboola.com
+taboola.com
+www.facebook.com/tr?
+bsw.digitru.st
+digitru.st
+narrative.io
+dc.services.visualstudio.com/v2/track
+breeze.aimon.applicationinsights.io/v2/track
+dc-int.services.visualstudio.com/v2/track
+dpm.demdex.net
+fls.doubleclick.net
+ums.adtechus.com
+pixel.rubiconproject.com
+pixel.quantserve.com
+simage2.pubmatic.com
+conversantmedia.com
+gityhub.com
+
 ! _____End of BlockUnderRadarJunk Filter-file._____
