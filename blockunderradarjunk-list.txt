@@ -1060,4 +1060,8 @@ rsalcau.com
 host893.com
 btc-era.com
 
+! 20/10/20
+vultors-triefs.com/redirect?
+digger.pw
+
 ! _____End of BlockUnderRadarJunk Filter-file._____
